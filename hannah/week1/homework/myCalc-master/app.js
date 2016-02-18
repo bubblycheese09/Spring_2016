@@ -4,7 +4,6 @@ console.log('yar! js working.');
 
 // //declare variables
 var answer;
-
 var operation;
 var number1;
 var number2;
